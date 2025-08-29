@@ -2,7 +2,7 @@
 
 This repository contains the techniques used in the following paper:
 
-**Title:** Sequence-Based Filtering for Visual Route-Based Navigation: Analyzing the Benefits, Trade-Offs and Design Choices <br>
+**Title:** Visual Place Recognition with Low-Resolution Images <br>
 **Authors:** Mihnea-Alexandru Tomita, Bruno Ferrarini, Michael J. Milford, Klaus D. McDonald-Maier and Shoaib Ehsan
 
 Published in 2023 IEEE International Conference on Robotics and Automation (ICRA) Workshop on Active Methods in Autonomous Navigation, London, UK.
